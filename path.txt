@@ -1,0 +1,36 @@
+C:\Users\KKL\Downloads\Programs\CrossLoopSetup.exe
+
+
+http://www.nuxeo.com/blog/development/2011/10/speeding-up-the-android-emulator/
+How to speed up the Android Emulator by up to 400% - Nuxeo Blogs
+www.nuxeo.com
+
+
+http://stackoverflow.com/questions/1554099/slow-android-emulator
+
+
+http://wiki.eclipse.org/EGit/User_Guide
+
+
+
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Anitha11/Flag.git
+git push -u origin maste
+
+
+
+git remote add origin https://github.com/Anitha11/Flag.git
+git push -u origin master
+git pull origin master
+
+git diff HEAD^^ HEAD README
+
+
+for dileep: http://eclipsesource.com/blogs/tutorials/egit-tutorial/
+
+
+git clone https://github.com/Anitha11/Flag1.git

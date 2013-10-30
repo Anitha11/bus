@@ -1,0 +1,9 @@
+C:\Users\KKL\Downloads\Programs\CrossLoopSetup.exe
+
+
+http://www.nuxeo.com/blog/development/2011/10/speeding-up-the-android-emulator/
+How to speed up the Android Emulator by up to 400% - Nuxeo Blogs
+www.nuxeo.com
+
+
+http://stackoverflow.com/questions/1554099/slow-android-emulator
